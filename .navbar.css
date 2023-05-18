@@ -1,0 +1,22 @@
+.navbar {
+    background-color: transparent;
+    padding: 28px 16px 18px;
+}
+.navbar .container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    max-width: 1065px;
+    width: 100%;
+    margin: 0 auto;
+    gap: 50px;
+}
+.navbar-brand img {
+    width: 193px;
+    height: auto;
+    max-height: inherit;
+    vertical-align: middle;
+}
