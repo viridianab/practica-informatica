@@ -1,1 +1,2 @@
 el cubo tiene forma de cubo
+# Subir una imagen de cubo en formato JPG, medidas 350 x 350 px
